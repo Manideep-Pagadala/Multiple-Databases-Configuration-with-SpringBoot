@@ -1,0 +1,23 @@
+# MySQL db-1
+mysql:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    password: root
+    url: jdbc:mysql://localhost:3306/projects
+    username: root
+    
+# Oracle db-2
+oracle:
+  datasource:
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+    password: tiger
+    url: jdbc:oracle:thin:@localhost:1521:orcl
+    username: system
+    
+spring:
+  application:
+    name: MultipleDB_02
+  jpa:
+    show-sql: true
+
+

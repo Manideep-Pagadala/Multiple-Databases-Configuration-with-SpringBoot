@@ -1,0 +1,44 @@
+{
+	"properties": [
+		{
+			"name": "mysql.datasource.driver-class-name",
+			"type": "java.lang.String",
+			"description": "A description for 'mysql.datasource.driver-class-name'"
+		},
+		{
+			"name": "oracle.datasource.driver-class-name",
+			"type": "java.lang.String",
+			"description": "A description for 'oracle.datasource.driver-class-name'"
+		},
+		{
+			"name": "mysql.datasource.url",
+			"type": "java.lang.String",
+			"description": "A description for 'mysql.datasource.url'"
+		},
+		{
+			"name": "mysql.datasource.password",
+			"type": "java.lang.String",
+			"description": "A description for 'mysql.datasource.password'"
+		},
+		{
+			"name": "mysql.datasource.username",
+			"type": "java.lang.String",
+			"description": "A description for 'mysql.datasource.username'"
+		},
+		{
+			"name": "oracle.datasource.url",
+			"type": "java.lang.String",
+			"description": "A description for 'oracle.datasource.url'"
+		},
+		{
+			"name": "oracle.datasource.password",
+			"type": "java.lang.String",
+			"description": "A description for 'oracle.datasource.password'"
+		},
+		{
+			"name": "oracle.datasource.username",
+			"type": "java.lang.String",
+			"description": "A description for 'oracle.datasource.username'"
+		}
+	]
+}
